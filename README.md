@@ -1,0 +1,2 @@
+# blogpad
+pyprj
